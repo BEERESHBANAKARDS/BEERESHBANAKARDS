@@ -25,4 +25,4 @@
 
 
 ## Profile views counter
-![Visitor Count](https://profile-
+![Visitor Count](https://profile-counter.glitch.me/{BEERESHBANAKARDS}/count.svg)
